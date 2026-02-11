@@ -374,4 +374,4 @@ pip install paddleocr
 - Test on representative samples of your data
 - Some parameters interact with each other, so you may need to adjust multiple parameters
 
-
+# Thằng nào kiên nhẫn đọc đến đây thì donate cho t con gpu xịn đi để train model với nhiều data hơn và để t bắn Valorant :D
