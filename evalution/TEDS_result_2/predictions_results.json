@@ -1,0 +1,31 @@
+{
+  "total": 3014,
+  "successful": 2693,
+  "failed": 321,
+  "teds_simple": {
+    "mean": 0.9536062438658847,
+    "median": 1.0,
+    "std": 0.1180776154977154,
+    "min": 0.07442748091603058,
+    "max": 1.0
+  },
+  "teds_complex": {
+    "mean": 0.9536062438658847,
+    "median": 1.0,
+    "std": 0.1180776154977154,
+    "min": 0.07442748091603058,
+    "max": 1.0
+  },
+  "evaluation_config": {
+    "use_gt_masks": false,
+    "space_seg_threshold": 0.2,
+    "space_seg_min_ratio": 0.75,
+    "span_seg_threshold": 0.5,
+    "reconstruct_min_length": 20,
+    "reconstruct_span_threshold": 0.85,
+    "col_span_merge_vertical_threshold": 50,
+    "col_span_merge_horizontal_threshold": 50,
+    "row_span_merge_vertical_threshold": 10,
+    "row_span_merge_horizontal_threshold": 200
+  }
+}

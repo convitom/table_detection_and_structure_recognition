@@ -3,8 +3,8 @@ import segmentation_models_pytorch as smp
 import os
 
 # ===== CONFIG =====
-CKPT_PATH = r"D:\USTH\Computer_Vision\table\model\span_seg_2.pth"          # checkpoint gốc
-OUT_PATH  = r"D:\USTH\Computer_Vision\table\model\span_seg.pth"  # file output
+CKPT_PATH = r"C:\Users\admin\Downloads\best.pth"         # checkpoint gốc
+OUT_PATH  = r"D:\USTH\Computer_Vision\table\model\span_seg_2.pth"  # file output
 DEVICE = "cpu"                        # convert thì cpu cho nhẹ
 # ==================
 

@@ -1,0 +1,6 @@
+metric,value
+accuracy,0.976486
+precision,0.825430
+recall,0.898398
+dice,0.856174
+iou,0.761342
